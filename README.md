@@ -1,4 +1,4 @@
-## 🔗 Directory Structure
+## 👩‍💻 Directory Structure
 -------------------
 ```bash
 css\              - Stylesheets CSS files for the template.
